@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.fixed{
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	padding: 25px;
+	padding-bottom: 0px;
+}
+
+.logo{
+	margin-left: 200px;
+}
+
+.nav{
+	margin-top: -50px;
+	margin-left: 150px;
+}
+
+.slider{
+	margin-left: -150px;
+}
+
+.about{
+	margin-top: -20px;
+}
+
+.bold{
+	font-family: '맑은 고딕', bold;
+	font-size: 60pt;
+	font-weight: bold;
+	color: rgb(1,85,157);
+}
+
+.about p{
+	font-family: '맑은 고딕', cursive;
+	font-size: 40pt;
+
+	color: rgb(1,85,157);
+}
+
+.about_text{
+	width: 800px;
+	padding: 80px;
+}
+
+.con{
+	width: 400px;
+	height: 130px;
+	background-color: rgb(1,85,157);
+	color: white;
+	font-family: '맑은 고딕', cursive;
+	font-size: 35pt;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+	border-radius: 100px;
+	padding-bottom: 10px;
+}
